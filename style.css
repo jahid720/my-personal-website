@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+        width: 50%;
+        margin-top: 30px;
+        border-style: none;
+}
+h1{
+    font-size: 50px;
+   
+}
+h3{
+    font-size: 40px;
+    margin-top: 40px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    
+}
+p{
+    margin-top: 10px;
+}
+.name-color{
+    color: tomato;
+}
+.top-banner{
+    background-image: url("photo/header-bg.png");
+    background-repeat: no-repeat;
+   
+}
+section{
+    height: 500px;
+}
+#top-banner{
+    margin-top: 50px;
+    
+}
+.full-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin: 20px;
+    
+    
+}
+.obosta{
+background-image: url("photo/biography-bg.png");
+background-repeat: no-repeat;
+
+}
+.tag-position{
+    text-align: center;
+    margin-top: 40;
+    
+}
+.full-width img{
+    width: 45%;
+    margin-top: 40px;
+    border-style: none;
+}
+.blog img{
+    width: 29%;
+    height: 400px;
+    margin-left: 40px;
+    margin-right: 20px;
+
+}
+.jakirul{
+    text-align: center;
+}
+.link-email{
+    text-decoration: none;
+background-color: red;
+padding: 15px 80px;
+border-radius: 5px;
+color: white;
+font-weight: 700;
+background-image: linear-gradient(45deg, lightSalmon, tomato);
+margin: 10 0 10 10;
+
+}
+.link{
+    text-align: center;
+
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+.single-Experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.alhmdulilla{
+background-image: url("photo/biography-bg.png");
+background-repeat: no-repeat;
+}
+
+
